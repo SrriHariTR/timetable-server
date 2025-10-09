@@ -2,9 +2,8 @@ const express = require("express");
 const cors = require("cors");
 
 const app = express();
-app.use(cors()); // allow frontend to fetch
+app.use(cors());
 
-// Sample timetable data
 const timetable = {
   Monday: [
     {
