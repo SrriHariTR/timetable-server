@@ -114,14 +114,14 @@ const timetable = {
     {
       start: "09:00",
       end: "09:50",
-      subject: "Software & Programming in IoT",
-      color: "#ffeb3b",
+      subject: "Self-learning",
+      color: "#757575",
     },
     {
       start: "09:50",
       end: "10:40",
-      subject: "Web Technologies",
-      color: "#ff9800",
+      subject: "Self-learning",
+      color: "#757575",
     },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
     {
