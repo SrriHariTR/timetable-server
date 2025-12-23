@@ -1,43 +1,41 @@
-{
-  "academicCalendar": [
-    { "title": "Christmas (H5)", "date": "2025-12-25", "color": "#ff7675" },
-    { "title": "New Year (H6)", "date": "2026-01-01", "color": "#ffeaa7" },
-    { "title": "Working Day", "date": "2026-01-10", "color": "#5A7ACD" },
-    { "title": "Add. Holiday", "date": "2026-01-14", "color": "#ffeaa7" },
-    { "title": "Pongal (H7)", "date": "2026-01-15", "color": "#ffeaa7" },
-    { "title": "Thiruvalluvar Day", "date": "2026-01-16", "color": "#ffeaa7" },
-    { "title": "Republic Day (H8)", "date": "2026-01-26", "color": "#ff7675" },
+[
+  { "title": "Christmas (H5)", "date": "2025-12-25", "color": "#ff7675" },
+  { "title": "New Year (H6)", "date": "2026-01-01", "color": "#ffeaa7" },
+  { "title": "Working Day", "date": "2026-01-10", "color": "#5A7ACD" },
+  { "title": "Add. Holiday", "date": "2026-01-14", "color": "#ffeaa7" },
+  { "title": "Pongal (H7)", "date": "2026-01-15", "color": "#ffeaa7" },
+  { "title": "Thiruvalluvar Day", "date": "2026-01-16", "color": "#ffeaa7" },
+  { "title": "Republic Day (H8)", "date": "2026-01-26", "color": "#ff7675" },
 
-    { "title": "Mid Sem Exam", "date": "2026-02-19", "color": "#fab1a0" },
-    { "title": "Mid Sem Exam", "date": "2026-02-20", "color": "#fab1a0" },
+  { "title": "Mid Sem Exam", "date": "2026-02-19", "color": "#fab1a0" },
+  { "title": "Mid Sem Exam", "date": "2026-02-20", "color": "#fab1a0" },
 
-    { "title": "Instincts", "date": "2026-03-12", "color": "#ce8080ff" },
-    { "title": "Instincts", "date": "2026-03-13", "color": "#ce8080ff" },
-    { "title": "Instincts", "date": "2026-03-14", "color": "#ce8080ff" },
+  { "title": "Instincts", "date": "2026-03-12", "color": "#ce8080ff" },
+  { "title": "Instincts", "date": "2026-03-13", "color": "#ce8080ff" },
+  { "title": "Instincts", "date": "2026-03-14", "color": "#ce8080ff" },
 
-    { "title": "Assessment – I", "date": "2026-03-23", "color": "#fdcb6e" },
-    { "title": "Assessment – II", "date": "2026-03-24", "color": "#fdcb6e" },
-    { "title": "Sports Day", "date": "2026-03-27", "color": "#81ecec" },
+  { "title": "Assessment – I", "date": "2026-03-23", "color": "#fdcb6e" },
+  { "title": "Assessment – II", "date": "2026-03-24", "color": "#fdcb6e" },
+  { "title": "Sports Day", "date": "2026-03-27", "color": "#81ecec" },
 
-    { "title": "SNU Annual Day", "date": "2026-04-02", "color": "#74b9ff" },
-    {
-      "title": "Tamil New Year / Dr B R Ambedkar Jayanthi",
-      "date": "2026-04-14",
-      "color": "#ffeaa7"
-    },
+  { "title": "SNU Annual Day", "date": "2026-04-02", "color": "#74b9ff" },
+  {
+    "title": "Tamil New Year / Dr B R Ambedkar Jayanthi",
+    "date": "2026-04-14",
+    "color": "#ffeaa7"
+  },
 
-    { "title": "Project Viva", "date": "2026-04-15", "color": "#a29bfe" },
-    { "title": "Project Viva", "date": "2026-04-16", "color": "#a29bfe" },
-    { "title": "Project Viva", "date": "2026-04-17", "color": "#a29bfe" },
+  { "title": "Project Viva", "date": "2026-04-15", "color": "#a29bfe" },
+  { "title": "Project Viva", "date": "2026-04-16", "color": "#a29bfe" },
+  { "title": "Project Viva", "date": "2026-04-17", "color": "#a29bfe" },
 
-    { "title": "May Day (H10)", "date": "2026-05-01", "color": "#ff7675" },
-    {
-      "title": "End Semester Theory Exam Begins",
-      "date": "2026-05-18",
-      "color": "#e17055"
-    },
+  { "title": "May Day (H10)", "date": "2026-05-01", "color": "#ff7675" },
+  {
+    "title": "End Semester Theory Exam Begins",
+    "date": "2026-05-18",
+    "color": "#e17055"
+  },
 
-    { "title": "Bakrid", "date": "2026-06-29", "color": "#ff7675" },
-    { "title": "Convocation", "date": "2026-07-05", "color": "#00b894" }
-  ]
-}
+  { "title": "Bakrid", "date": "2026-06-29", "color": "#ff7675" },
+  { "title": "Convocation", "date": "2026-07-05", "color": "#00b894" }
+]
