@@ -7,47 +7,102 @@ app.use(cors()); // allow frontend to fetch
 // Sample timetable data
 const timetable = {
   Monday: [
-    { start: "08:10", end: "09:00", subject: "Intro to Quant Comp", color: "#7e57c2" },
+    {
+      start: "08:10",
+      end: "09:00",
+      subject: "Intro to Quant Comp",
+      color: "#7e57c2",
+    },
     { start: "09:00", end: "09:50", subject: "Data Science", color: "#26a69a" },
-    { start: "09:50", end: "10:40", subject: "IoT Arch. & Proto", color: "#ffca28" },
+    {
+      start: "09:50",
+      end: "10:40",
+      subject: "IoT Arch. & Proto",
+      color: "#ffca28",
+    },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
     { start: "11:00", end: "11:50", subject: "Mini Project", color: "#ab47bc" },
     { start: "11:50", end: "12:40", subject: "Mini Project", color: "#ab47bc" },
     { start: "12:40", end: "13:40", subject: "LUNCH", color: "#616161" },
-    { start: "13:40", end: "14:30", subject: "Mini Project", color: "#ab47bc" },
-    { start: "14:40", end: "15:30", subject: "Mini Project", color: "#ab47bc" },
+    { start: "09:50", end: "10:40", subject: "ML", color: "#42a5f5" },
+    { start: "09:50", end: "10:40", subject: "ML", color: "#42a5f5" },
   ],
 
   Tuesday: [
     { start: "08:10", end: "09:00", subject: "IoT Sys Eng", color: "#ef5350" },
-    { start: "09:00", end: "09:50", subject: "Cryptography Concepts", color: "#5c6bc0" },
+    {
+      start: "09:00",
+      end: "09:50",
+      subject: "Cryptography Concepts",
+      color: "#5c6bc0",
+    },
     { start: "09:50", end: "10:40", subject: "ML", color: "#42a5f5" },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
-    { start: "11:00", end: "11:50", subject: "Intro to Quant Comp", color: "#7e57c2" },
-    { start: "11:50", end: "12:40", subject: "Industrial Training", color: "#8d6e63" },
+    {
+      start: "11:00",
+      end: "11:50",
+      subject: "Intro to Quant Comp",
+      color: "#7e57c2",
+    },
+    {
+      start: "11:50",
+      end: "12:40",
+      subject: "Industrial Training",
+      color: "#8d6e63",
+    },
     { start: "12:40", end: "13:40", subject: "LUNCH", color: "#616161" },
     { start: "13:40", end: "14:30", subject: "Library", color: "#90a4ae" },
-    { start: "14:40", end: "15:30", subject: "Seminars / Club Activities", color: "#9ccc65" },
+    {
+      start: "11:50",
+      end: "12:40",
+      subject: "Industrial Training",
+      color: "#8d6e63",
+    },
   ],
 
   Wednesday: [
     { start: "08:10", end: "09:00", subject: "Data Science", color: "#26a69a" },
-    { start: "09:00", end: "09:50", subject: "Cryptography Concepts", color: "#5c6bc0" },
+    {
+      start: "09:00",
+      end: "09:50",
+      subject: "Cryptography Concepts",
+      color: "#5c6bc0",
+    },
     { start: "09:50", end: "10:40", subject: "IoT Sys Eng", color: "#ef5350" },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
     { start: "11:00", end: "11:50", subject: "ML", color: "#42a5f5" },
     { start: "11:50", end: "12:40", subject: "Mentoring", color: "#26c6da" },
     { start: "12:40", end: "13:40", subject: "LUNCH", color: "#616161" },
-    { start: "13:40", end: "14:30", subject: "Seminars / Club Activities", color: "#9ccc65" },
-    { start: "14:40", end: "15:30", subject: "Seminars / Club Activities", color: "#9ccc65" },
+    {
+      start: "13:40",
+      end: "14:30",
+      subject: "Seminars / Club Activities",
+      color: "#9ccc65",
+    },
+    {
+      start: "14:40",
+      end: "15:30",
+      subject: "Seminars / Club Activities",
+      color: "#9ccc65",
+    },
   ],
 
   Thursday: [
-    { start: "08:10", end: "09:00", subject: "ML (Theory)", color: "#42a5f5" },
-    { start: "09:00", end: "09:50", subject: "IoT Arch. & Proto", color: "#ffca28" },
+    { start: "08:10", end: "09:00", subject: "ML(T)", color: "#42a5f5" },
+    {
+      start: "09:00",
+      end: "09:50",
+      subject: "IoT Arch. & Proto",
+      color: "#ffca28",
+    },
     { start: "09:50", end: "10:40", subject: "Data Science", color: "#26a69a" },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
-    { start: "11:00", end: "11:50", subject: "Industrial Training", color: "#8d6e63" },
+    {
+      start: "11:00",
+      end: "11:50",
+      subject: "Industrial Training(T)",
+      color: "#8d6e63",
+    },
     { start: "11:50", end: "12:40", subject: "ML Lab", color: "#66bb6a" },
     { start: "12:40", end: "13:40", subject: "LUNCH", color: "#616161" },
     { start: "13:40", end: "14:30", subject: "ML Lab", color: "#66bb6a" },
@@ -55,18 +110,37 @@ const timetable = {
   ],
 
   Friday: [
-    { start: "08:10", end: "09:00", subject: "IoT Arch. & Proto", color: "#ffca28" },
+    {
+      start: "08:10",
+      end: "09:00",
+      subject: "IoT Arch. & Proto",
+      color: "#ffca28",
+    },
     { start: "09:00", end: "09:50", subject: "IoT Sys Eng", color: "#ef5350" },
-    { start: "09:50", end: "10:40", subject: "Intro to Quant Comp", color: "#7e57c2" },
+    {
+      start: "09:50",
+      end: "10:40",
+      subject: "Intro to Quant Comp",
+      color: "#7e57c2",
+    },
     { start: "10:40", end: "11:00", subject: "BREAK", color: "#9e9e9e" },
-    { start: "11:00", end: "11:50", subject: "Industrial Training", color: "#8d6e63" },
-    { start: "11:50", end: "12:40", subject: "Data Science", color: "#26a69a" },
+    {
+      start: "11:00",
+      end: "11:50",
+      subject: "Industrial Training",
+      color: "#8d6e63",
+    },
+    {
+      start: "08:10",
+      end: "09:00",
+      subject: "IoT Arch. & Proto",
+      color: "#ffca28",
+    },
     { start: "12:40", end: "13:40", subject: "LUNCH", color: "#616161" },
     { start: "13:40", end: "14:30", subject: "Mini Project", color: "#ab47bc" },
     { start: "14:40", end: "15:30", subject: "Mini Project", color: "#ab47bc" },
   ],
 };
-
 
 // Academic calendar events
 const academicEvents = [
