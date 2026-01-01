@@ -8,7 +8,7 @@
     { "start": "11:50", "end": "12:40", "subject": "Mini Project", "color": "#ab47bc" },
     { "start": "12:40", "end": "13:40", "subject": "LUNCH", "color": "#616161" },
     { "start": "13:40", "end": "14:30", "subject": "ML", "color": "#42a5f5" },
-    { "start": "14:40", "end": "15:30", "subject": "ML", "color": "#42a5f5" }
+    { "start": "14:40", "end": "15:30", "subject": "ML(SL) ", "color": "#42a5f5" }
   ],
   "Tuesday": [
     { "start": "08:10", "end": "09:00", "subject": "IoT Sys Eng", "color": "#ef5350" },
@@ -49,7 +49,7 @@
     { "start": "09:50", "end": "10:40", "subject": "Intro to Quant Comp", "color": "#7e57c2" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
     { "start": "11:00", "end": "11:50", "subject": "Industrial Training", "color": "#8d6e63" },
-    { "start": "11:50", "end": "12:40", "subject": "IoT Arch. & Proto", "color": "#ffca28" },
+    { "start": "11:50", "end": "12:40", "subject": "IoT Arch. & Proto(SL) ", "color": "#ffca28" },
     { "start": "12:40", "end": "13:40", "subject": "LUNCH", "color": "#616161" },
     { "start": "13:40", "end": "14:30", "subject": "Mini Project", "color": "#ab47bc" },
     { "start": "14:40", "end": "15:30", "subject": "Mini Project", "color": "#ab47bc" }
