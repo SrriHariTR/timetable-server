@@ -5,6 +5,7 @@
   { "title": "Add. Holiday", "date": "2026-01-14", "color": "#ffeaa7" },
   { "title": "Pongal (H7)", "date": "2026-01-15", "color": "#ffeaa7" },
   { "title": "Thiruvalluvar Day", "date": "2026-01-16", "color": "#ffeaa7" },
+    { "title": "Working Day", "date": "2026-01-17", "color": "#5A7ACD" },
   { "title": "Republic Day (H8)", "date": "2026-01-26", "color": "#ff7675" },
 
   { "title": "Mid Sem Exam", "date": "2026-02-19", "color": "#fab1a0" },
