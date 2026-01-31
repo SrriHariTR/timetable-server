@@ -8,8 +8,12 @@
     { "title": "Working Day", "date": "2026-01-17", "color": "#5A7ACD" },
   { "title": "Republic Day (H8)", "date": "2026-01-26", "color": "#ff7675" },
 
-  { "title": "Mid Sem Exam", "date": "2026-02-19", "color": "#fab1a0" },
-  { "title": "Mid Sem Exam", "date": "2026-02-20", "color": "#fab1a0" },
+  { "title": "Crypto-Graphy", "date": "2026-02-16", "color": "#fab1a0" },
+  { "title": "IoT Arch", "date": "2026-02-17", "color": "#fab1a0" },
+  { "title": "ML", "date": "2026-02-18", "color": "#fab1a0" },
+  { "title": "IoT Sys.Eng", "date": "2026-02-19", "color": "#fab1a0" },
+  { "title": "Quant.Compu", "date": "2026-02-20", "color": "#fab1a0" },
+  { "title": "Data Science", "date": "2026-02-23", "color": "#fab1a0" },
 
   { "title": "Instincts", "date": "2026-03-12", "color": "#ce8080ff" },
   { "title": "Instincts", "date": "2026-03-13", "color": "#ce8080ff" },
