@@ -33,15 +33,15 @@
     { "start": "14:40", "end": "15:30", "subject": "Seminars / Club Activities", "color": "#9ccc65" }
   ],
   "Thursday": [
-    { "start": "08:10", "end": "09:00", "subject": "ML(T)", "color": "#42a5f5" },
+    { "start": "08:10", "end": "09:00", "subject": "Data Science", "color": "#26a69a"  },
     { "start": "09:00", "end": "09:50", "subject": "IoT Arch. & Proto", "color": "#ffca28" },
-    { "start": "09:50", "end": "10:40", "subject": "Data Science", "color": "#26a69a" },
+    { "start": "09:50", "end": "10:40", "subject":  "ML Lab", "color": "#66bb6a"  },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
-    { "start": "11:00", "end": "11:50", "subject": "Industrial Training(T)", "color": "#8d6e63" },
+    { "start": "11:00", "end": "11:50", "subject":  "ML Lab", "color": "#66bb6a" },
     { "start": "11:50", "end": "12:40", "subject": "ML Lab", "color": "#66bb6a" },
     { "start": "12:40", "end": "13:40", "subject": "LUNCH", "color": "#616161" },
-    { "start": "13:40", "end": "14:30", "subject": "ML Lab", "color": "#66bb6a" },
-    { "start": "14:40", "end": "15:30", "subject": "ML Lab", "color": "#66bb6a" }
+    { "start": "13:40", "end": "14:30", "subject": "ML(T)", "color": "#42a5f5" },
+    { "start": "14:40", "end": "15:30", "subject":  "Industrial Training(T)", "color": "#8d6e63" }
   ],
   "Friday": [
     { "start": "08:10", "end": "09:00", "subject": "IoT Arch. & Proto", "color": "#ffca28" },
