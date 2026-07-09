@@ -2,7 +2,7 @@
   "Monday": [
     { "start": "08:10", "end": "09:00", "subject": "CS4852 - Industrial Training/MOOC", "color": "#8e24aa" },
     { "start": "09:00", "end": "09:50", "subject": "CS4852 - Industrial Training/MOOC", "color": "#8e24aa" },
-    { "start": "09:50", "end": "10:40", "subject": "CS4001 - Self Learning", "color": "#f9a825" },
+    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#B6F500" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
     { "start": "11:00", "end": "11:50", "subject": "CS4801 - DevOps Lab", "color": "#43a047" },
     { "start": "11:50", "end": "12:40", "subject": "CS4801 - DevOps Lab", "color": "#43a047" },
@@ -35,7 +35,7 @@
   "Thursday": [
     { "start": "08:10", "end": "09:00", "subject": "CS4005 - Trusted Computing", "color": "#5e35b1" },
     { "start": "09:00", "end": "09:50", "subject": "CS4003 - DevOps", "color": "#ef5350" },
-    { "start": "09:50", "end": "10:40", "subject": "PE - Self Learning", "color": "#00897b" },
+    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#B6F500" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
     { "start": "11:00", "end": "11:50", "subject": "CS4001 - Cloud & Fog Computing", "color": "#3949ab" },
     { "start": "11:50", "end": "12:40", "subject": "PE - Intelligent Hardware Systems", "color": "#00897b" },
