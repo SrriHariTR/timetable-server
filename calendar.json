@@ -42,5 +42,222 @@
   },
 
   { "title": "Bakrid", "date": "2026-06-29", "color": "#ff7675" },
-  { "title": "Convocation", "date": "2026-07-05", "color": "#00b894" }
+  { "title": "Convocation", "date": "2026-07-05", "color": "#00b894" },
+  
+  {
+    "title": "Commencement of Odd Semester Classes",
+    "date": "2026-07-08",
+    "color": "#00b894"
+  },
+  {
+    "title": "SNU-SSN-MUN",
+    "date": "2026-08-01",
+    "color": "#74b9ff"
+  },
+  {
+    "title": "SNU-SSN-MUN",
+    "date": "2026-08-02",
+    "color": "#74b9ff"
+  },
+  {
+    "title": "Assessment I",
+    "date": "2026-08-06",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment I",
+    "date": "2026-08-07",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-08-12",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-08-13",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-08-14",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-08-15",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Independence Day",
+    "date": "2026-08-15",
+    "color": "#ff7675"
+  },
+  {
+    "title": "SNU-SSN-MUN",
+    "date": "2026-08-31",
+    "color": "#74b9ff"
+  },
+  {
+    "title": "Mid Semester Exam 01",
+    "date": "2026-09-04",
+    "color": "#e17055"
+  },
+  {
+    "title": "Mid Semester Exam 02",
+    "date": "2026-09-07",
+    "color": "#e17055"
+  },
+  {
+    "title": "Mid Semester Exam 03",
+    "date": "2026-09-08",
+    "color": "#e17055"
+  },
+  {
+    "title": "Mid Semester Exam 04",
+    "date": "2026-09-09",
+    "color": "#e17055"
+  },
+  {
+    "title": "Mid Semester Exam 05",
+    "date": "2026-09-10",
+    "color": "#e17055"
+  },
+  {
+    "title": "Mid Semester Exam 06",
+    "date": "2026-09-11",
+    "color": "#e17055"
+  },
+  {
+    "title": "Sri Ganesh Chaturthi (H1)",
+    "date": "2026-09-14",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "INVENTE Technical Symposium",
+    "date": "2026-09-17",
+    "color": "#55efc4"
+  },
+  {
+    "title": "INVENTE Technical Symposium",
+    "date": "2026-09-18",
+    "color": "#55efc4"
+  },
+  {
+    "title": "Gandhi Jayanthi (H2)",
+    "date": "2026-10-02",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "Assessment I",
+    "date": "2026-10-15",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment I",
+    "date": "2026-10-16",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Ayutha Pooja (H3)",
+    "date": "2026-10-15",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "Vijaya Dasami - Additional Holiday",
+    "date": "2026-10-16",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-10-21",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-10-22",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Assessment II",
+    "date": "2026-10-23",
+    "color": "#fdcb6e"
+  },
+  {
+    "title": "Working Day",
+    "date": "2026-10-24",
+    "color": "#5A7ACD"
+  },
+  {
+    "title": "Addl Assessment",
+    "date": "2026-11-03",
+    "color": "#fab1a0"
+  },
+  {
+    "title": "Addl Assessment",
+    "date": "2026-11-04",
+    "color": "#fab1a0"
+  },
+  {
+    "title": "Addl Assessment",
+    "date": "2026-11-05",
+    "color": "#fab1a0"
+  },
+  {
+    "title": "Addl Assessment",
+    "date": "2026-11-06",
+    "color": "#fab1a0"
+  },
+  {
+    "title": "Last Teaching Day",
+    "date": "2026-11-07",
+    "color": "#ff7675"
+  },
+  {
+    "title": "Deepavali",
+    "date": "2026-11-12",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "Additional Holiday",
+    "date": "2026-11-13",
+    "color": "#ffeaa7"
+  },
+  {
+    "title": "ES Practicals",
+    "date": "2026-11-16",
+    "color": "#a29bfe"
+  },
+  {
+    "title": "ES Practicals",
+    "date": "2026-11-17",
+    "color": "#a29bfe"
+  },
+  {
+    "title": "ES Practicals",
+    "date": "2026-11-18",
+    "color": "#a29bfe"
+  },
+  {
+    "title": "ES Theory Exam Begins",
+    "date": "2026-11-19",
+    "color": "#e17055"
+  },
+  {
+    "title": "Working Day",
+    "date": "2026-11-20",
+    "color": "#5A7ACD"
+  },
+  {
+    "title": "Commencement of Even Semester Classes",
+    "date": "2026-12-16",
+    "color": "#00b894"
+  },
+  {
+    "title": "Christmas (H4)",
+    "date": "2026-12-25",
+    "color": "#ffeaa7"
+  }
+
 ]
