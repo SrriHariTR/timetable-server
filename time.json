@@ -2,7 +2,7 @@
   "Monday": [
     { "start": "08:10", "end": "09:00", "subject": "CS4852 - Industrial Training/MOOC", "color": "#8e24aa" },
     { "start": "09:00", "end": "09:50", "subject": "CS4852 - Industrial Training/MOOC", "color": "#8e24aa" },
-    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#B6F500" },
+    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#FF0B55" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
     { "start": "11:00", "end": "11:50", "subject": "CS4801 - DevOps Lab", "color": "#43a047" },
     { "start": "11:50", "end": "12:40", "subject": "CS4801 - DevOps Lab", "color": "#43a047" },
@@ -22,7 +22,7 @@
     { "start": "14:40", "end": "15:30", "subject": "HS4001 - Intellectual Property Rights", "color": "#fb8c00" }
   ],
   "Wednesday": [
-    { "start": "08:10", "end": "09:00", "subject": "PE - Intelligent Hardware Systems", "color": "#00897b" },
+    { "start": "08:10", "end": "09:00", "subject": "PE - Intel.Hard.Sys For Edge AI & IoT", "color": "#00897b" },
     { "start": "09:00", "end": "09:50", "subject": "CS4005 - Trusted Computing", "color": "#5e35b1" },
     { "start": "09:50", "end": "10:40", "subject": "CS4001 - Cloud & Fog Computing", "color": "#3949ab" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
@@ -35,10 +35,10 @@
   "Thursday": [
     { "start": "08:10", "end": "09:00", "subject": "CS4005 - Trusted Computing", "color": "#5e35b1" },
     { "start": "09:00", "end": "09:50", "subject": "CS4003 - DevOps", "color": "#ef5350" },
-    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#B6F500" },
+    { "start": "09:50", "end": "10:40", "subject": "Self Learning 🥂", "color": "#FF0B55" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
     { "start": "11:00", "end": "11:50", "subject": "CS4001 - Cloud & Fog Computing", "color": "#3949ab" },
-    { "start": "11:50", "end": "12:40", "subject": "PE - Intelligent Hardware Systems", "color": "#00897b" },
+    { "start": "11:50", "end": "12:40", "subject": "PE - Intel.Hard.Sys For Edge AI & IoT", "color": "#00897b" },
     { "start": "12:40", "end": "13:40", "subject": "LUNCH", "color": "#616161" },
     { "start": "13:40", "end": "14:30", "subject": "CS4999 - Capstone Project", "color": "#1e88e5" },
     { "start": "14:40", "end": "15:30", "subject": "CS4999 - Capstone Project", "color": "#1e88e5" }
@@ -48,7 +48,7 @@
     { "start": "09:00", "end": "09:50", "subject": "BM4001 - Management Principles", "color": "#6d4c41" },
     { "start": "09:50", "end": "10:40", "subject": "CS4001 - Cloud & Fog Computing", "color": "#3949ab" },
     { "start": "10:40", "end": "11:00", "subject": "BREAK", "color": "#9e9e9e" },
-    { "start": "11:00", "end": "11:50", "subject": "PE - Intelligent Hardware Systems", "color": "#00897b" },
+    { "start": "11:00", "end": "11:50", "subject": "PE - Intel.Hard.Sys For Edge AI & IoT", "color": "#00897b" },
     { "start": "11:50", "end": "12:40", "subject": "CS4005 - Trusted Computing", "color": "#5e35b1" },
     { "start": "12:40", "end": "13:40", "subject": "LUNCH", "color": "#616161" },
     { "start": "13:40", "end": "14:30", "subject": "CS4852 - Industrial Training/MOOC", "color": "#8e24aa" },
